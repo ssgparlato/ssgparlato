@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santino.
 - 👀 I’m interested in analytics, blockchain, data science, and Web3.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning about NFL Contracts.
 - 📫 You can reach me by emailing santino13@me.com.
 - Hobbies: Tennis/Pickleball, Kiteboarding/Surfing, and Snowboarding/Skiing. 
 
